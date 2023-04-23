@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const renderLicenseBadge = require('./utils/generateMarkdown');
+
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -100,7 +100,6 @@ ${collaborate}
 
 ## License
 
-
 ## Features
 ${features}
 
@@ -113,7 +112,7 @@ ${tests}
     inquirer
         .prompt([...questions])
         .then((answers) => {
-            writeToFile('../README.md', generateREADME(answers));
+            writeToFile('../genREADME.md', generateREADME(answers));
 }
 )
 

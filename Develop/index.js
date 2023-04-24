@@ -99,6 +99,8 @@ Email: ${email}
 ${collaborate}
 
 ## License
+![Badge](https://img.shields.io/static/v1?label=License&message=${license}&color=$blue)
+This project is under ${license} license
 
 ## Features
 ${features}

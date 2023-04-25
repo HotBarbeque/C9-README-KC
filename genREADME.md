@@ -1,7 +1,9 @@
-# Professional README Generator
+# Profesional README Generator
+
+![Badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-This project asks a series of questions to build a professional README
+This project uses a series of questions to build a professional README
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,17 +18,17 @@ This project asks a series of questions to build a professional README
 Node and Inquirer npm
 
 ## Usage
-Download the repo to your local computer and in the integrated terminal type "node index.js" to begin the series of questions
+Download the repository to your local computer and in the integrated terminal type  "node index.js"
 ![screenshot](/assets/screenshot.PNG)
 
 ## Credits
-GitHub: [HotBarbeque](https://github.com/HotBarbeque)
-Email: kyry.curry@gmai.com
-N/A
+GitHub: [Hotbarbeque](https://github.com/Hotbarbeque)
+Email: kyry.curry@gmail.com
+Collaborators: N/A
 
 ## License
-[Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=$blue)
-This project is under MIT license
+
+This project license is MIT
 
 ## Features
 N/A
@@ -36,3 +38,6 @@ N/A
 
 ## Tests
 N/A
+
+## Questions
+If you have any questions please email me at kyry.curry@gmail.com

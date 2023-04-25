@@ -74,7 +74,7 @@ function init() {
     const generateREADME = ({ title, description, install, usage, screenshot, github, email, collaborate, license, features, contribution, tests}) =>
     `# ${title}
 
-![Badge](https://img.shields.io/static/v1?label=License&message=${license}&color=$blue)
+![Badge](https://img.shields.io/badge/license-${license}-blue)
 
 ## Description
 ${description}
@@ -98,7 +98,7 @@ ${usage}
 ## Credits
 GitHub: [${github}](https://github.com/${github})
 Email: ${email}
-${collaborate}
+Collaborators: ${collaborate}
 
 ## License
 
@@ -112,6 +112,9 @@ ${contribution}
 
 ## Tests
 ${tests}
+
+## Questions
+If you have any questions please email me at ${email}
 `;
     inquirer
         .prompt([...questions])

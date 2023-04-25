@@ -1,9 +1,9 @@
-# Profesional README Generator
+# Professional README
 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-This project uses a series of questions to build a professional README
+Series of questions build a README
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,7 +18,7 @@ This project uses a series of questions to build a professional README
 Node and Inquirer npm
 
 ## Usage
-Download the repository to your local computer and in the integrated terminal type  "node index.js"
+By cloning the repo to your computer then installing inquirer and then entering node index.js in the integrated terminal
 ![screenshot](/assets/screenshot.PNG)
 
 ## Credits

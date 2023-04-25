@@ -2,9 +2,10 @@
 
 ## Description
 This project asks a series of questions to build a professional README through the integrated terminal using Node and Inquirer npm. This challenge pushed my knowledge of Node and how to properly use inquirer npm.
+[Demo Video](https://drive.google.com/file/d/1eS_5nz9WheXIBaAPBz5zYN2d_Z8HqofU/view)
 
 ## Table of Contents
-- [Installation](#installation)
+- [Installation](#installation)git a
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
